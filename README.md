@@ -12,7 +12,7 @@ s254764@studenti.polito.it
 Politecnico di Torino
 s254300@studenti.polito.it
 ```
-####Rinaldo Clemente
+#### Rinaldo Clemente
 
 ```
 Politecnico di Torino
